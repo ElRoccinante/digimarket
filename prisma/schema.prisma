@@ -67,5 +67,4 @@ model sliders {
   title String
   link String
   imageLink String
-  
 }
